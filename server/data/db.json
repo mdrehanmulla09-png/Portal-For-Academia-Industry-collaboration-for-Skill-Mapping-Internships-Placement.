@@ -1,0 +1,3078 @@
+{
+  "users": [
+    {
+      "id": "user-stu-1",
+      "name": "Arjun Sharma",
+      "email": "student@skillbridge.gov.in",
+      "role": "student",
+      "phone": "+91 98765 43210",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-10T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-2",
+      "name": "Ananya Iyer",
+      "email": "ananya.iyer@gmail.com",
+      "role": "student",
+      "phone": "+91 98765 43211",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-12T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-3",
+      "name": "Rohan Mehta",
+      "email": "rohan.mehta@outlook.com",
+      "role": "student",
+      "phone": "+91 98765 43212",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-15T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-4",
+      "name": "Sneha Patel",
+      "email": "sneha.patel@ac.in",
+      "role": "student",
+      "phone": "+91 98765 43213",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "isVerified": false,
+      "createdAt": "2026-02-01T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-5",
+      "name": "Vikramaditya Rao",
+      "email": "vikram.rao@nitw.ac.in",
+      "role": "student",
+      "phone": "+91 98765 43214",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+      "isVerified": true,
+      "createdAt": "2026-02-05T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-6",
+      "name": "Meera Nambiar",
+      "email": "meera.nambiar@annauniv.edu",
+      "role": "student",
+      "phone": "+91 98765 43215",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+      "isVerified": true,
+      "createdAt": "2026-02-10T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-7",
+      "name": "Kavya Deshmukh",
+      "email": "kavya.d@coep.ac.in",
+      "role": "student",
+      "phone": "+91 98765 43216",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150",
+      "isVerified": true,
+      "createdAt": "2026-02-15T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-8",
+      "name": "Aditya Sen",
+      "email": "aditya.sen@ju.edu.in",
+      "role": "student",
+      "phone": "+91 98765 43217",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+      "isVerified": true,
+      "createdAt": "2026-02-20T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-9",
+      "name": "Tanvi Agarwal",
+      "email": "tanvi.agarwal@bits-pilani.ac.in",
+      "role": "student",
+      "phone": "+91 98765 43218",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+      "isVerified": true,
+      "createdAt": "2026-02-22T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-stu-10",
+      "name": "Mohammad Farooq",
+      "email": "m.farooq@dtu.ac.in",
+      "role": "student",
+      "phone": "+91 98765 43219",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+      "isVerified": true,
+      "createdAt": "2026-02-25T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-ind-1",
+      "name": "Priya Nair",
+      "email": "industry@skillbridge.gov.in",
+      "role": "industry",
+      "phone": "+91 98111 22334",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-05T09:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-ind-2",
+      "name": "Deepak Chopra",
+      "email": "d.chopra@infosys-labs.in",
+      "role": "industry",
+      "phone": "+91 98222 33445",
+      "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-06T09:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-ind-3",
+      "name": "Sunita Reddy",
+      "email": "sreddy@bhel-tech.gov.in",
+      "role": "industry",
+      "phone": "+91 98333 44556",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-08T09:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-ind-4",
+      "name": "Rajesh Singhania",
+      "email": "rsinghania@reliance-nextgen.com",
+      "role": "industry",
+      "phone": "+91 98444 55667",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-10T09:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-ind-5",
+      "name": "Karthik Kamath",
+      "email": "karthik@zerodha-labs.io",
+      "role": "industry",
+      "phone": "+91 98555 66778",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-12T09:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-fac-1",
+      "name": "Dr. Rajesh Verma",
+      "email": "faculty@skillbridge.gov.in",
+      "role": "faculty",
+      "phone": "+91 97111 33445",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-02T11:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-inst-1",
+      "name": "Prof. S. Ramanathan",
+      "email": "institution@skillbridge.gov.in",
+      "role": "institution_admin",
+      "phone": "+91 99112 44556",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+      "isVerified": true,
+      "createdAt": "2026-01-01T10:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-adm-1",
+      "name": "National Nodal Officer",
+      "email": "admin@skillbridge.gov.in",
+      "role": "platform_admin",
+      "phone": "+91 11 2345 6789",
+      "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150",
+      "isVerified": true,
+      "createdAt": "2025-12-01T00:00:00Z",
+      "passwordHash": "$2a$10$wT8mQyv79PzI5R1eB5x2seR8a9W2vB5C7D9E1F3G5H7I9J1K3L5M6"
+    },
+    {
+      "id": "user-1789925759725",
+      "name": "maimonak578@gmail.com",
+      "email": "maimonak578@gmail.com",
+      "role": "student",
+      "phone": "8087270816",
+      "isVerified": true,
+      "createdAt": "2026-09-20T17:35:59.725Z"
+    }
+  ],
+  "studentProfiles": [
+    {
+      "id": "sp-1",
+      "userId": "user-stu-1",
+      "fullName": "Arjun Sharma",
+      "institutionName": "IIT Delhi",
+      "branch": "Computer Science & Engineering",
+      "degree": "B.Tech",
+      "graduationYear": 2026,
+      "cgpa": 8.85,
+      "careerInterests": [
+        "Full Stack Development",
+        "AI & Machine Learning",
+        "Cloud Systems"
+      ],
+      "skills": [
+        {
+          "skill": "React.js",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "Node.js",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "TypeScript",
+          "level": "beginner",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Python",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "Docker & Kubernetes",
+          "level": "advanced",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "SQL & Database Design",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Problem Solving & DSA",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Team Collaboration",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Machine Learning",
+          "level": "beginner",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Cloud Systems",
+          "level": "beginner",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Leadership",
+          "level": "advanced",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Communication",
+          "level": "beginner",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Adaptability",
+          "level": "beginner",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Analytical Thinking",
+          "level": "intermediate",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        }
+      ],
+      "bio": "Passionate final-year CS undergrad focused on scalable distributed systems, modern web engineering, and applied deep learning.",
+      "location": "New Delhi, India",
+      "resumeUrl": "https://skillbridge.gov.in/docs/resumes/arjun-sharma-cv.pdf",
+      "githubUrl": "https://github.com/arjun-sharma-dev",
+      "linkedinUrl": "https://linkedin.com/in/arjun-sharma-gov",
+      "portfolioSlug": "arjun-sharma",
+      "portfolioCompletionPercentage": 100
+    },
+    {
+      "id": "sp-2",
+      "userId": "user-stu-2",
+      "fullName": "Ananya Iyer",
+      "institutionName": "Anna University Chennai",
+      "branch": "Artificial Intelligence & Data Science",
+      "degree": "B.Tech",
+      "graduationYear": 2026,
+      "cgpa": 9.15,
+      "careerInterests": [
+        "Data Science",
+        "Machine Learning Engineer",
+        "NLP Research"
+      ],
+      "skills": [
+        {
+          "skill": "Python",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "Machine Learning",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "TensorFlow / PyTorch",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "SQL",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Power BI / Tableau",
+          "level": "intermediate",
+          "verified": false,
+          "assessed": true,
+          "source": "self_reported"
+        }
+      ],
+      "bio": "Data science enthusiast passionate about developing AI solutions for Indian healthcare and agriculture.",
+      "location": "Chennai, Tamil Nadu",
+      "portfolioSlug": "ananya-iyer",
+      "portfolioCompletionPercentage": 88
+    },
+    {
+      "id": "sp-3",
+      "userId": "user-stu-3",
+      "fullName": "Rohan Mehta",
+      "institutionName": "NIT Warangal",
+      "branch": "Electronics & Communication Engineering",
+      "degree": "B.Tech",
+      "graduationYear": 2026,
+      "cgpa": 8.42,
+      "careerInterests": [
+        "Embedded Systems",
+        "IoT Solutions",
+        "VLSI Design"
+      ],
+      "skills": [
+        {
+          "skill": "C / C++",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "Embedded Systems",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "RTOS",
+          "level": "beginner",
+          "verified": false,
+          "assessed": false,
+          "source": "self_reported"
+        },
+        {
+          "skill": "Microcontrollers (ARM)",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        }
+      ],
+      "bio": "Hardware-software codesign specialist exploring smart automotive microcontrollers.",
+      "location": "Warangal, Telangana",
+      "portfolioSlug": "rohan-mehta",
+      "portfolioCompletionPercentage": 80
+    },
+    {
+      "id": "sp-4",
+      "userId": "user-stu-4",
+      "fullName": "Sneha Patel",
+      "institutionName": "BITS Pilani",
+      "branch": "Computer Science",
+      "degree": "B.E.",
+      "graduationYear": 2027,
+      "cgpa": 8.6,
+      "careerInterests": [
+        "Cybersecurity",
+        "Cloud Infrastructure",
+        "Network Security"
+      ],
+      "skills": [
+        {
+          "skill": "Network Protocols",
+          "level": "intermediate",
+          "verified": false,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Linux Administration",
+          "level": "intermediate",
+          "verified": false,
+          "assessed": true,
+          "source": "self_reported"
+        },
+        {
+          "skill": "Penetration Testing",
+          "level": "beginner",
+          "verified": false,
+          "assessed": false,
+          "source": "self_reported"
+        }
+      ],
+      "location": "Pilani, Rajasthan",
+      "portfolioSlug": "sneha-patel",
+      "portfolioCompletionPercentage": 65
+    },
+    {
+      "id": "sp-5",
+      "userId": "user-stu-5",
+      "fullName": "Vikramaditya Rao",
+      "institutionName": "NIT Warangal",
+      "branch": "Mechanical Engineering",
+      "degree": "B.Tech",
+      "graduationYear": 2026,
+      "cgpa": 7.95,
+      "careerInterests": [
+        "Electric Vehicles",
+        "CAD / CAM Simulation",
+        "Robotics Automation"
+      ],
+      "skills": [
+        {
+          "skill": "SolidWorks",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "ANSYS FEA",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Python for Engineering",
+          "level": "beginner",
+          "verified": false,
+          "assessed": true,
+          "source": "self_reported"
+        }
+      ],
+      "location": "Hyderabad, Telangana",
+      "portfolioSlug": "vikram-rao",
+      "portfolioCompletionPercentage": 75
+    },
+    {
+      "id": "sp-6",
+      "userId": "user-stu-6",
+      "fullName": "Meera Nambiar",
+      "institutionName": "Anna University Chennai",
+      "branch": "Information Technology",
+      "degree": "B.Tech",
+      "graduationYear": 2026,
+      "cgpa": 8.9,
+      "careerInterests": [
+        "Mobile App Engineering",
+        "React Native",
+        "UI/UX Design"
+      ],
+      "skills": [
+        {
+          "skill": "React Native",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Figma UI/UX",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "JavaScript / TypeScript",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        }
+      ],
+      "location": "Kochi, Kerala",
+      "portfolioSlug": "meera-nambiar",
+      "portfolioCompletionPercentage": 85
+    },
+    {
+      "id": "sp-7",
+      "userId": "user-stu-7",
+      "fullName": "Kavya Deshmukh",
+      "institutionName": "COEP Tech University Pune",
+      "branch": "Civil & Infrastructure Engineering",
+      "degree": "B.Tech",
+      "graduationYear": 2026,
+      "cgpa": 8.3,
+      "careerInterests": [
+        "Smart Cities Infrastructure",
+        "GIS & Remote Sensing",
+        "Structural Analysis"
+      ],
+      "skills": [
+        {
+          "skill": "AutoCAD Civil 3D",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "GIS & Spatial Analysis",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Project Management",
+          "level": "intermediate",
+          "verified": false,
+          "assessed": true,
+          "source": "self_reported"
+        }
+      ],
+      "location": "Pune, Maharashtra",
+      "portfolioSlug": "kavya-deshmukh",
+      "portfolioCompletionPercentage": 78
+    },
+    {
+      "id": "sp-8",
+      "userId": "user-stu-8",
+      "fullName": "Aditya Sen",
+      "institutionName": "Jadavpur University",
+      "branch": "Computer Science & Engineering",
+      "degree": "B.E.",
+      "graduationYear": 2026,
+      "cgpa": 9.3,
+      "careerInterests": [
+        "Algorithmic Trading",
+        "Backend Systems",
+        "Distributed Databases"
+      ],
+      "skills": [
+        {
+          "skill": "Go (Golang)",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "C++ Systems Programming",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "PostgreSQL",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        }
+      ],
+      "location": "Kolkata, West Bengal",
+      "portfolioSlug": "aditya-sen",
+      "portfolioCompletionPercentage": 90
+    },
+    {
+      "id": "sp-9",
+      "userId": "user-stu-9",
+      "fullName": "Tanvi Agarwal",
+      "institutionName": "BITS Pilani",
+      "branch": "Chemical Engineering & Data Sciences",
+      "degree": "Dual Degree",
+      "graduationYear": 2026,
+      "cgpa": 8.75,
+      "careerInterests": [
+        "Process Analytics",
+        "Biotech Data Modeling",
+        "Sustainability Engineering"
+      ],
+      "skills": [
+        {
+          "skill": "Python Data Science",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "MATLAB Simulation",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        }
+      ],
+      "location": "Jaipur, Rajasthan",
+      "portfolioSlug": "tanvi-agarwal",
+      "portfolioCompletionPercentage": 82
+    },
+    {
+      "id": "sp-10",
+      "userId": "user-stu-10",
+      "fullName": "Mohammad Farooq",
+      "institutionName": "Delhi Technological University",
+      "branch": "Software Engineering",
+      "degree": "B.Tech",
+      "graduationYear": 2026,
+      "cgpa": 8.5,
+      "careerInterests": [
+        "Cloud DevOps",
+        "Kubernetes Architecture",
+        "Site Reliability"
+      ],
+      "skills": [
+        {
+          "skill": "AWS Cloud Services",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "credential_verified"
+        },
+        {
+          "skill": "Terraform & CI/CD",
+          "level": "intermediate",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        },
+        {
+          "skill": "Docker",
+          "level": "advanced",
+          "verified": true,
+          "assessed": true,
+          "source": "assessed"
+        }
+      ],
+      "location": "Delhi NCR",
+      "portfolioSlug": "mohammad-farooq",
+      "portfolioCompletionPercentage": 84
+    },
+    {
+      "id": "sp-1789925759725",
+      "userId": "user-1789925759725",
+      "fullName": "maimonak578@gmail.com",
+      "institutionName": "MGM",
+      "branch": "Electronic and computer science ",
+      "degree": "B.Tech",
+      "graduationYear": 28,
+      "cgpa": 8,
+      "careerInterests": [
+        "Software Engineering"
+      ],
+      "skills": [
+        {
+          "skill": "Problem Solving & DSA",
+          "level": "intermediate",
+          "verified": false,
+          "assessed": false,
+          "source": "self_reported"
+        },
+        {
+          "skill": "Communication",
+          "level": "intermediate",
+          "verified": false,
+          "assessed": false,
+          "source": "self_reported"
+        }
+      ],
+      "bio": "Undergraduate student on SkillBridge India.",
+      "portfolioSlug": "maimonak578@gmail.com",
+      "portfolioCompletionPercentage": 50
+    }
+  ],
+  "industryProfiles": [
+    {
+      "id": "ind-1",
+      "userId": "user-ind-1",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "cinNumber": "L74140MH1995PLC012345",
+      "sector": "Information Technology & Consulting",
+      "website": "https://tatatechsolutions.example.in",
+      "headquarters": "Mumbai, Maharashtra",
+      "description": "Pioneering global digital transformation and enterprise software solutions empowering industries across India.",
+      "verifiedStatus": "verified",
+      "logoUrl": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=100",
+      "contactPerson": "Priya Nair",
+      "contactDesignation": "Head of Campus Talent Partnerships"
+    },
+    {
+      "id": "ind-2",
+      "userId": "user-ind-2",
+      "companyName": "Infosys Digital Labs",
+      "cinNumber": "L85110KA1981PLC004312",
+      "sector": "Enterprise AI & Cloud Platforms",
+      "website": "https://infosysdigitallabs.example.in",
+      "headquarters": "Bengaluru, Karnataka",
+      "description": "Next-generation digital services helping enterprises navigate their cloud-first, AI-driven digital journeys.",
+      "verifiedStatus": "verified",
+      "logoUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=100",
+      "contactPerson": "Deepak Chopra",
+      "contactDesignation": "Director of University Collaborations"
+    },
+    {
+      "id": "ind-3",
+      "userId": "user-ind-3",
+      "companyName": "Bharat Heavy Electronics Ltd (Tech Innovation Wing)",
+      "cinNumber": "L74899DL1964GOI004281",
+      "sector": "Heavy Electricals & Industrial Automation",
+      "website": "https://bheltech.example.in",
+      "headquarters": "New Delhi",
+      "description": "India premier public sector engineering firm advancing indigenous power, automation, and aerospace systems.",
+      "verifiedStatus": "verified",
+      "logoUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=100",
+      "contactPerson": "Sunita Reddy",
+      "contactDesignation": "Chief Engineer - Industry Partnerships"
+    },
+    {
+      "id": "ind-4",
+      "userId": "user-ind-4",
+      "companyName": "Reliance NextGen Platforms",
+      "cinNumber": "L17110MH1973PLC019786",
+      "sector": "Telecom, 5G & Digital Services",
+      "website": "https://reliancenextgen.example.in",
+      "headquarters": "Navi Mumbai, Maharashtra",
+      "description": "Building nationwide digital highway infrastructure, cloud gaming, and indigenous 5G communications.",
+      "verifiedStatus": "verified",
+      "logoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=100",
+      "contactPerson": "Rajesh Singhania",
+      "contactDesignation": "Vice President - Emerging Tech Hiring"
+    },
+    {
+      "id": "ind-5",
+      "userId": "user-ind-5",
+      "companyName": "Zerodha FinTech Labs",
+      "cinNumber": "U67120KA2010PTC053330",
+      "sector": "Financial Technology & Capital Markets",
+      "website": "https://zerodhatech.example.in",
+      "headquarters": "Bengaluru, Karnataka",
+      "description": "Empowering millions of Indian retail investors through ultra-low latency, scalable, open-source technology platforms.",
+      "verifiedStatus": "verified",
+      "logoUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=100",
+      "contactPerson": "Karthik Kamath",
+      "contactDesignation": "Engineering Talent Lead"
+    }
+  ],
+  "facultyProfiles": [
+    {
+      "id": "fac-1",
+      "userId": "user-fac-1",
+      "fullName": "Dr. Rajesh Verma",
+      "institutionName": "IIT Delhi",
+      "department": "Department of Computer Science & Engineering",
+      "designation": "Professor & Head of AI Center",
+      "qualification": "Ph.D. in Machine Learning (IISc Bangalore)",
+      "specialization": [
+        "Deep Learning",
+        "Edge AI",
+        "Computer Vision for Robotics"
+      ],
+      "researchAreas": [
+        "Indigenous AI Foundation Models",
+        "Edge Computing in Smart Agriculture",
+        "Autonomous Drones"
+      ],
+      "experienceYears": 18,
+      "availableForConsultancy": true,
+      "availableForGuestLectures": true
+    }
+  ],
+  "institutionProfiles": [
+    {
+      "id": "inst-1",
+      "userId": "user-inst-1",
+      "institutionName": "IIT Delhi",
+      "aisheCode": "U-0092",
+      "type": "IIT",
+      "nirfRank": 2,
+      "state": "Delhi",
+      "city": "New Delhi",
+      "departments": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Applied Mechanics"
+      ],
+      "placementContact": "Prof. S. Ramanathan",
+      "placementEmail": "placement@iitd.ac.in",
+      "verifiedStatus": "verified"
+    },
+    {
+      "id": "inst-2",
+      "userId": "inst-user-2",
+      "institutionName": "NIT Warangal",
+      "aisheCode": "U-0053",
+      "type": "NIT",
+      "nirfRank": 21,
+      "state": "Telangana",
+      "city": "Warangal",
+      "departments": [
+        "Computer Science",
+        "Electronics & Comm",
+        "Mechanical",
+        "Chemical"
+      ],
+      "placementContact": "Dr. K. V. Sharma",
+      "placementEmail": "tap@nitw.ac.in",
+      "verifiedStatus": "verified"
+    },
+    {
+      "id": "inst-3",
+      "userId": "inst-user-3",
+      "institutionName": "Anna University Chennai",
+      "aisheCode": "U-0436",
+      "type": "State University",
+      "nirfRank": 14,
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "departments": [
+        "Information Technology",
+        "Civil Engineering",
+        "Automobile Tech"
+      ],
+      "placementContact": "Dr. R. Manickam",
+      "placementEmail": "cuga@annauniv.edu",
+      "verifiedStatus": "verified"
+    },
+    {
+      "id": "inst-4",
+      "userId": "inst-user-4",
+      "institutionName": "BITS Pilani",
+      "aisheCode": "U-0391",
+      "type": "Private University",
+      "nirfRank": 20,
+      "state": "Rajasthan",
+      "city": "Pilani",
+      "departments": [
+        "Computer Science",
+        "Cybersecurity",
+        "Instrumentation"
+      ],
+      "placementContact": "Prof. Anupama Roy",
+      "placementEmail": "placements@pilani.bits-pilani.ac.in",
+      "verifiedStatus": "verified"
+    },
+    {
+      "id": "inst-5",
+      "userId": "inst-user-5",
+      "institutionName": "Jadavpur University",
+      "aisheCode": "U-0570",
+      "type": "State University",
+      "nirfRank": 10,
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "departments": [
+        "Computer Science & Tech",
+        "Power Engineering",
+        "Metallurgy"
+      ],
+      "placementContact": "Prof. Debashis Ghosh",
+      "placementEmail": "placement@jadavpuruniversity.in",
+      "verifiedStatus": "verified"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opp-1",
+      "title": "Full Stack Web Engineering Intern",
+      "companyId": "ind-1",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "companyLogo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=100",
+      "type": "internship",
+      "description": "Work alongside senior cloud architects to build high-throughput public portals and modern web interfaces using React, TypeScript, and microservices.",
+      "requiredSkills": [
+        {
+          "skill": "React.js",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "Node.js",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "TypeScript",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "SQL & Database Design",
+          "requiredLevel": "beginner",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "B.Tech/M.Tech in CS/IT or related field",
+        "Strong analytical skills",
+        "Knowledge of RESTful APIs"
+      ],
+      "location": "Bengaluru / New Delhi",
+      "workMode": "hybrid",
+      "duration": "6 Months",
+      "stipendOrSalary": "₹35,000 / month",
+      "applicationDeadline": "2026-10-30",
+      "openings": 12,
+      "eligibility": {
+        "minCgpa": 7.5,
+        "allowedBranches": [
+          "Computer Science & Engineering",
+          "Information Technology",
+          "Artificial Intelligence & Data Science"
+        ],
+        "allowedGradYears": [
+          2026,
+          2027
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-01T10:00:00Z"
+    },
+    {
+      "id": "opp-2",
+      "title": "Applied AI & NLP Research Intern",
+      "companyId": "ind-2",
+      "companyName": "Infosys Digital Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=100",
+      "type": "internship",
+      "description": "Conduct experiments on multilingual large language models tailored for Indian regional languages, fine-tuning open-weights models and retrieval-augmented pipelines.",
+      "requiredSkills": [
+        {
+          "skill": "Python",
+          "requiredLevel": "advanced",
+          "weight": 5
+        },
+        {
+          "skill": "Machine Learning",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "TensorFlow / PyTorch",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Problem Solving & DSA",
+          "requiredLevel": "intermediate",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "Deep understanding of Transformer architectures",
+        "Hands-on experience with HuggingFace"
+      ],
+      "location": "Bengaluru, Karnataka",
+      "workMode": "on_site",
+      "duration": "6 Months",
+      "stipendOrSalary": "₹45,000 / month",
+      "applicationDeadline": "2026-11-15",
+      "openings": 6,
+      "eligibility": {
+        "minCgpa": 8,
+        "allowedBranches": [
+          "Computer Science & Engineering",
+          "Artificial Intelligence & Data Science"
+        ],
+        "allowedGradYears": [
+          2026
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-05T10:00:00Z"
+    },
+    {
+      "id": "opp-3",
+      "title": "Embedded Systems & Industrial IoT Trainee",
+      "companyId": "ind-3",
+      "companyName": "Bharat Heavy Electronics Ltd",
+      "companyLogo": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=100",
+      "type": "apprenticeship",
+      "description": "Contribute to indigenous microcontroller firmware, telemetry sensing, and real-time diagnostic systems for power generation automation.",
+      "requiredSkills": [
+        {
+          "skill": "C / C++",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "Embedded Systems",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "Microcontrollers (ARM)",
+          "requiredLevel": "beginner",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "B.Tech in ECE / EEE / Instrumentation",
+        "Basic knowledge of RTOS and SPI/I2C communication"
+      ],
+      "location": "Bhopal / Hyderabad",
+      "workMode": "on_site",
+      "duration": "1 Year Apprenticeship",
+      "stipendOrSalary": "₹28,000 / month",
+      "applicationDeadline": "2026-11-01",
+      "openings": 15,
+      "eligibility": {
+        "minCgpa": 7,
+        "allowedBranches": [
+          "Electronics & Communication Engineering",
+          "Electrical Engineering"
+        ],
+        "allowedGradYears": [
+          2025,
+          2026
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-02-28T10:00:00Z"
+    },
+    {
+      "id": "opp-4",
+      "title": "Cloud DevOps & Site Reliability Engineer",
+      "companyId": "ind-4",
+      "companyName": "Reliance NextGen Platforms",
+      "companyLogo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=100",
+      "type": "job",
+      "description": "Full-time graduate placement engineering resilient Kubernetes clusters, infrastructure-as-code automation, and 5G edge orchestration pipelines.",
+      "requiredSkills": [
+        {
+          "skill": "Docker & Kubernetes",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "AWS Cloud Services",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Terraform & CI/CD",
+          "requiredLevel": "beginner",
+          "weight": 4
+        },
+        {
+          "skill": "Linux Administration",
+          "requiredLevel": "intermediate",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "Hands-on container orchestration",
+        "Strong bash/Python scripting skills"
+      ],
+      "location": "Navi Mumbai",
+      "workMode": "hybrid",
+      "duration": "Full Time",
+      "stipendOrSalary": "₹14,50,000 - ₹18,00,000 / annum",
+      "applicationDeadline": "2026-12-01",
+      "openings": 8,
+      "eligibility": {
+        "minCgpa": 7.5,
+        "allowedBranches": [
+          "Computer Science & Engineering",
+          "Information Technology",
+          "Software Engineering"
+        ],
+        "allowedGradYears": [
+          2026
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-02T10:00:00Z"
+    },
+    {
+      "id": "opp-5",
+      "title": "Low-Latency Systems & Backend Engineer",
+      "companyId": "ind-5",
+      "companyName": "Zerodha FinTech Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=100",
+      "type": "job",
+      "description": "Build mission-critical trading engine services with sub-millisecond execution guarantees, handling over 15 million active transactions daily.",
+      "requiredSkills": [
+        {
+          "skill": "Go (Golang)",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "C++ Systems Programming",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "PostgreSQL",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Problem Solving & DSA",
+          "requiredLevel": "advanced",
+          "weight": 5
+        }
+      ],
+      "preferredQualifications": [
+        "Clean code philosophy",
+        "Deep passion for open source systems and Linux kernel fundamentals"
+      ],
+      "location": "Bengaluru, Karnataka",
+      "workMode": "hybrid",
+      "duration": "Full Time",
+      "stipendOrSalary": "₹18,00,000 - ₹24,00,000 / annum",
+      "applicationDeadline": "2026-11-20",
+      "openings": 5,
+      "eligibility": {
+        "minCgpa": 8,
+        "allowedBranches": [
+          "Computer Science & Engineering",
+          "Software Engineering"
+        ],
+        "allowedGradYears": [
+          2026
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-08T10:00:00Z"
+    },
+    {
+      "id": "opp-6",
+      "title": "Industry Research Fellowship: Edge AI for Drone Navigation",
+      "companyId": "ind-2",
+      "companyName": "Infosys Digital Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=100",
+      "type": "research_collaboration",
+      "description": "Joint research project between industry AI leads and academic researchers to develop lightweight visual SLAM for edge microcontrollers.",
+      "requiredSkills": [
+        {
+          "skill": "Python",
+          "requiredLevel": "advanced",
+          "weight": 5
+        },
+        {
+          "skill": "Computer Vision for Robotics",
+          "requiredLevel": "advanced",
+          "weight": 5
+        },
+        {
+          "skill": "Edge AI",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        }
+      ],
+      "preferredQualifications": [
+        "Ph.D. or Master researchers and senior faculty investigators"
+      ],
+      "location": "Bengaluru / Hybrid",
+      "workMode": "hybrid",
+      "duration": "12 Months",
+      "stipendOrSalary": "₹12,00,000 Project Grant",
+      "applicationDeadline": "2026-12-15",
+      "openings": 3,
+      "eligibility": {
+        "minCgpa": 8.5
+      },
+      "status": "active",
+      "createdAt": "2026-03-10T10:00:00Z"
+    },
+    {
+      "id": "opp-7",
+      "title": "Faculty Industry Immersion Program (FDP)",
+      "companyId": "ind-1",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "companyLogo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=100",
+      "type": "fdp",
+      "description": "Comprehensive 4-week industry residency for engineering faculty to gain practical experience with modern cloud enterprise architectures and CI/CD best practices.",
+      "requiredSkills": [
+        {
+          "skill": "Cloud Computing",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Curriculum Modernization",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        }
+      ],
+      "preferredQualifications": [
+        "Full-time faculty from AICTE-approved institutions"
+      ],
+      "location": "Pune Innovation Center",
+      "workMode": "on_site",
+      "duration": "4 Weeks",
+      "stipendOrSalary": "All-inclusive fellowship & honorarium ₹50,000",
+      "applicationDeadline": "2026-10-15",
+      "openings": 25,
+      "eligibility": {},
+      "status": "active",
+      "createdAt": "2026-03-05T10:00:00Z"
+    },
+    {
+      "id": "opp-8",
+      "title": "Frontend UI/UX Developer Intern",
+      "companyId": "ind-5",
+      "companyName": "Zerodha FinTech Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=100",
+      "type": "internship",
+      "description": "Design accessible, snappy user interfaces and data visualization widgets for millions of active traders using React, Tailwind, and Canvas API.",
+      "requiredSkills": [
+        {
+          "skill": "React.js",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "TypeScript",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Figma UI/UX",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        }
+      ],
+      "preferredQualifications": [
+        "Strong portfolio of responsive web applications",
+        "Knowledge of Web Accessibility (a11y)"
+      ],
+      "location": "Bengaluru / Remote",
+      "workMode": "remote",
+      "duration": "6 Months",
+      "stipendOrSalary": "₹40,000 / month",
+      "applicationDeadline": "2026-11-10",
+      "openings": 4,
+      "eligibility": {
+        "minCgpa": 7,
+        "allowedGradYears": [
+          2026,
+          2027
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-09T10:00:00Z"
+    },
+    {
+      "id": "opp-9",
+      "title": "Cybersecurity Threat Analyst Intern",
+      "companyId": "ind-4",
+      "companyName": "Reliance NextGen Platforms",
+      "companyLogo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=100",
+      "type": "internship",
+      "description": "Join the Security Operations Center (SOC) team to monitor enterprise logs, analyze vulnerabilities, and simulate penetration attacks.",
+      "requiredSkills": [
+        {
+          "skill": "Network Protocols",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "Linux Administration",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Penetration Testing",
+          "requiredLevel": "beginner",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "Knowledge of OWASP Top 10",
+        "CEH or CompTIA Security+ exposure"
+      ],
+      "location": "Navi Mumbai",
+      "workMode": "hybrid",
+      "duration": "6 Months",
+      "stipendOrSalary": "₹32,000 / month",
+      "applicationDeadline": "2026-11-25",
+      "openings": 5,
+      "eligibility": {
+        "minCgpa": 7.5,
+        "allowedBranches": [
+          "Computer Science",
+          "Cybersecurity",
+          "Information Technology"
+        ],
+        "allowedGradYears": [
+          2026,
+          2027
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-04T10:00:00Z"
+    },
+    {
+      "id": "opp-10",
+      "title": "Electric Vehicle Battery Management Live Project",
+      "companyId": "ind-3",
+      "companyName": "Bharat Heavy Electronics Ltd",
+      "companyLogo": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=100",
+      "type": "live_project",
+      "description": "Collaborative student capstone project developing predictive thermal models and battery state-of-health estimation algorithms.",
+      "requiredSkills": [
+        {
+          "skill": "ANSYS FEA",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "MATLAB Simulation",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "Python for Engineering",
+          "requiredLevel": "beginner",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "Mechanical, Automobile, or Electrical Engineering senior students"
+      ],
+      "location": "Bhopal / Remote",
+      "workMode": "hybrid",
+      "duration": "4 Months",
+      "stipendOrSalary": "₹20,000 / month",
+      "applicationDeadline": "2026-10-20",
+      "openings": 8,
+      "eligibility": {
+        "minCgpa": 7,
+        "allowedBranches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ],
+        "allowedGradYears": [
+          2026
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-07T10:00:00Z"
+    },
+    {
+      "id": "opp-11",
+      "title": "Associate Data Scientist - Entry Level",
+      "companyId": "ind-2",
+      "companyName": "Infosys Digital Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=100",
+      "type": "job",
+      "description": "Transform enterprise data into actionable predictive insights for supply chain, healthcare, and retail banking clients.",
+      "requiredSkills": [
+        {
+          "skill": "Python",
+          "requiredLevel": "advanced",
+          "weight": 5
+        },
+        {
+          "skill": "Machine Learning",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "SQL",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Power BI / Tableau",
+          "requiredLevel": "intermediate",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "Strong statistical foundations",
+        "Experience handling structured and unstructured datasets"
+      ],
+      "location": "Bengaluru / Hyderabad",
+      "workMode": "hybrid",
+      "duration": "Full Time",
+      "stipendOrSalary": "₹9,50,000 - ₹12,00,000 / annum",
+      "applicationDeadline": "2026-12-10",
+      "openings": 20,
+      "eligibility": {
+        "minCgpa": 8,
+        "allowedBranches": [
+          "Computer Science & Engineering",
+          "Artificial Intelligence & Data Science"
+        ],
+        "allowedGradYears": [
+          2026
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-02T10:00:00Z"
+    },
+    {
+      "id": "opp-12",
+      "title": "Mobile App Developer (React Native)",
+      "companyId": "ind-1",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "companyLogo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=100",
+      "type": "job",
+      "description": "Develop performant cross-platform mobile apps for citizen service delivery, digital wallets, and e-governance platforms.",
+      "requiredSkills": [
+        {
+          "skill": "React Native",
+          "requiredLevel": "intermediate",
+          "weight": 5
+        },
+        {
+          "skill": "JavaScript / TypeScript",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Figma UI/UX",
+          "requiredLevel": "beginner",
+          "weight": 3
+        }
+      ],
+      "preferredQualifications": [
+        "Published app on Play Store / App Store is a big plus"
+      ],
+      "location": "Chennai / Kochi",
+      "workMode": "hybrid",
+      "duration": "Full Time",
+      "stipendOrSalary": "₹8,50,000 - ₹11,00,000 / annum",
+      "applicationDeadline": "2026-11-30",
+      "openings": 10,
+      "eligibility": {
+        "minCgpa": 7.2,
+        "allowedBranches": [
+          "Computer Science",
+          "Information Technology",
+          "Software Engineering"
+        ],
+        "allowedGradYears": [
+          2026
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-06T10:00:00Z"
+    },
+    {
+      "id": "opp-13",
+      "title": "Smart City Infrastructure Consultancy Specialist",
+      "companyId": "ind-3",
+      "companyName": "Bharat Heavy Electronics Ltd",
+      "companyLogo": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=100",
+      "type": "consultancy",
+      "description": "Senior consultancy engagement advising municipal corporations on intelligent urban mobility, GIS mapping, and smart grid integration.",
+      "requiredSkills": [
+        {
+          "skill": "GIS & Spatial Analysis",
+          "requiredLevel": "advanced",
+          "weight": 5
+        },
+        {
+          "skill": "AutoCAD Civil 3D",
+          "requiredLevel": "advanced",
+          "weight": 4
+        },
+        {
+          "skill": "Project Management",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        }
+      ],
+      "preferredQualifications": [
+        "Postgraduate civil engineering degree or experienced faculty consultants"
+      ],
+      "location": "New Delhi / Pune",
+      "workMode": "hybrid",
+      "duration": "8 Months",
+      "stipendOrSalary": "₹60,000 / month retainer",
+      "applicationDeadline": "2026-11-05",
+      "openings": 4,
+      "eligibility": {},
+      "status": "active",
+      "createdAt": "2026-03-01T10:00:00Z"
+    },
+    {
+      "id": "opp-14",
+      "title": "VLSI Chip Verification & Testing Intern",
+      "companyId": "ind-4",
+      "companyName": "Reliance NextGen Platforms",
+      "companyLogo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=100",
+      "type": "internship",
+      "description": "Assist the 5G modem silicon team in writing SystemVerilog testbenches and verifying digital ASIC blocks.",
+      "requiredSkills": [
+        {
+          "skill": "C / C++",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Microcontrollers (ARM)",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        },
+        {
+          "skill": "Problem Solving & DSA",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        }
+      ],
+      "preferredQualifications": [
+        "ECE / EEE majors with strong digital logic understanding"
+      ],
+      "location": "Bengaluru / Hyderabad",
+      "workMode": "on_site",
+      "duration": "6 Months",
+      "stipendOrSalary": "₹42,000 / month",
+      "applicationDeadline": "2026-11-18",
+      "openings": 6,
+      "eligibility": {
+        "minCgpa": 8,
+        "allowedBranches": [
+          "Electronics & Communication Engineering"
+        ],
+        "allowedGradYears": [
+          2026,
+          2027
+        ]
+      },
+      "status": "active",
+      "createdAt": "2026-03-07T10:00:00Z"
+    },
+    {
+      "id": "opp-15",
+      "title": "Industry Mentorship: Cloud Architecture Mastery",
+      "companyId": "ind-1",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "companyLogo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=100",
+      "type": "mentorship",
+      "description": "Direct 1-on-1 industry mentorship cohort connecting student innovators with TCS Principal Cloud Architects for 12 weeks.",
+      "requiredSkills": [
+        {
+          "skill": "React.js",
+          "requiredLevel": "beginner",
+          "weight": 3
+        },
+        {
+          "skill": "Node.js",
+          "requiredLevel": "beginner",
+          "weight": 3
+        },
+        {
+          "skill": "Problem Solving & DSA",
+          "requiredLevel": "intermediate",
+          "weight": 4
+        }
+      ],
+      "preferredQualifications": [
+        "Enthusiastic engineering students seeking guidance on careers and system design"
+      ],
+      "location": "National / Online",
+      "workMode": "remote",
+      "duration": "12 Weeks",
+      "stipendOrSalary": "Free Mentorship Program",
+      "applicationDeadline": "2026-10-31",
+      "openings": 50,
+      "eligibility": {},
+      "status": "active",
+      "createdAt": "2026-03-01T10:00:00Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1789846570946",
+      "opportunityId": "opp-2",
+      "studentId": "user-stu-1",
+      "studentName": "Arjun Sharma",
+      "studentEmail": "student@skillbridge.gov.in",
+      "institutionName": "IIT Delhi",
+      "branch": "Computer Science & Engineering",
+      "opportunityTitle": "Applied AI & NLP Research Intern",
+      "companyName": "Infosys Digital Labs",
+      "opportunityType": "internship",
+      "status": "applied",
+      "appliedDate": "2026-09-19T19:36:10.946Z",
+      "resumeUrl": "https://skillbridge.gov.in/docs/resumes/arjun-sharma-cv.pdf",
+      "skillMatchScore": 51,
+      "matchingSkills": [
+        "Python",
+        "Machine Learning",
+        "Problem Solving & DSA"
+      ],
+      "missingSkills": [
+        "TensorFlow / PyTorch"
+      ],
+      "coverLetter": "Automated test application for NLP Intern.",
+      "timeline": [
+        {
+          "status": "applied",
+          "timestamp": "2026-09-19T19:36:10.946Z",
+          "note": "Application successfully submitted via SkillBridge India portal."
+        }
+      ]
+    },
+    {
+      "id": "app-1",
+      "opportunityId": "opp-1",
+      "studentId": "user-stu-1",
+      "studentName": "Arjun Sharma",
+      "studentEmail": "student@skillbridge.gov.in",
+      "institutionName": "IIT Delhi",
+      "branch": "Computer Science & Engineering",
+      "opportunityTitle": "Full Stack Web Engineering Intern",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "opportunityType": "internship",
+      "status": "shortlisted",
+      "appliedDate": "2026-03-12T14:30:00Z",
+      "resumeUrl": "https://skillbridge.gov.in/docs/resumes/arjun-sharma-cv.pdf",
+      "skillMatchScore": 94,
+      "matchingSkills": [
+        "React.js",
+        "Node.js",
+        "TypeScript",
+        "SQL & Database Design"
+      ],
+      "missingSkills": [],
+      "coverLetter": "I am eager to contribute to Tata Tech digital solutions and build high-performance web systems.",
+      "timeline": [
+        {
+          "status": "applied",
+          "timestamp": "2026-03-12T14:30:00Z",
+          "note": "Application submitted successfully via SkillBridge Portal."
+        },
+        {
+          "status": "under_review",
+          "timestamp": "2026-03-14T10:00:00Z",
+          "note": "Profile matched candidate criteria. Reviewing verified portfolio."
+        },
+        {
+          "status": "shortlisted",
+          "timestamp": "2026-03-16T16:00:00Z",
+          "note": "Candidate shortlisted for technical interview rounds."
+        },
+        {
+          "status": "shortlisted",
+          "timestamp": "2026-09-19T19:36:10.972Z",
+          "note": "Automated test shortlisting."
+        },
+        {
+          "status": "selected",
+          "timestamp": "2026-09-20T07:06:57.384Z",
+          "note": "Official offer letter generated."
+        },
+        {
+          "status": "shortlisted",
+          "timestamp": "2026-09-21T13:21:49.310Z",
+          "note": "Automated test shortlisting."
+        },
+        {
+          "status": "shortlisted",
+          "timestamp": "2026-09-22T15:32:55.288Z",
+          "note": "Automated test shortlisting."
+        }
+      ],
+      "interviewDate": "2026-03-24T11:00:00Z"
+    },
+    {
+      "id": "app-2",
+      "opportunityId": "opp-4",
+      "studentId": "user-stu-1",
+      "studentName": "Arjun Sharma",
+      "studentEmail": "student@skillbridge.gov.in",
+      "institutionName": "IIT Delhi",
+      "branch": "Computer Science & Engineering",
+      "opportunityTitle": "Cloud DevOps & Site Reliability Engineer",
+      "companyName": "Reliance NextGen Platforms",
+      "opportunityType": "job",
+      "status": "under_review",
+      "appliedDate": "2026-03-15T09:15:00Z",
+      "resumeUrl": "https://skillbridge.gov.in/docs/resumes/arjun-sharma-cv.pdf",
+      "skillMatchScore": 78,
+      "matchingSkills": [
+        "Docker & Kubernetes",
+        "Linux Administration"
+      ],
+      "missingSkills": [
+        "AWS Cloud Services",
+        "Terraform & CI/CD"
+      ],
+      "timeline": [
+        {
+          "status": "applied",
+          "timestamp": "2026-03-15T09:15:00Z",
+          "note": "Application submitted."
+        },
+        {
+          "status": "under_review",
+          "timestamp": "2026-03-17T11:20:00Z",
+          "note": "Screening round 1 in progress."
+        }
+      ]
+    },
+    {
+      "id": "app-3",
+      "opportunityId": "opp-2",
+      "studentId": "user-stu-2",
+      "studentName": "Ananya Iyer",
+      "studentEmail": "ananya.iyer@gmail.com",
+      "institutionName": "Anna University Chennai",
+      "branch": "Artificial Intelligence & Data Science",
+      "opportunityTitle": "Applied AI & NLP Research Intern",
+      "companyName": "Infosys Digital Labs",
+      "opportunityType": "internship",
+      "status": "interview",
+      "appliedDate": "2026-03-10T11:00:00Z",
+      "resumeUrl": "https://skillbridge.gov.in/docs/resumes/ananya-iyer-cv.pdf",
+      "skillMatchScore": 96,
+      "matchingSkills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow / PyTorch"
+      ],
+      "missingSkills": [],
+      "timeline": [
+        {
+          "status": "applied",
+          "timestamp": "2026-03-10T11:00:00Z"
+        },
+        {
+          "status": "under_review",
+          "timestamp": "2026-03-12T09:00:00Z"
+        },
+        {
+          "status": "shortlisted",
+          "timestamp": "2026-03-14T15:00:00Z"
+        },
+        {
+          "status": "interview",
+          "timestamp": "2026-03-18T10:00:00Z",
+          "note": "Technical Round scheduled for March 22."
+        }
+      ],
+      "interviewDate": "2026-03-22T14:00:00Z"
+    },
+    {
+      "id": "app-4",
+      "opportunityId": "opp-5",
+      "studentId": "user-stu-8",
+      "studentName": "Aditya Sen",
+      "studentEmail": "aditya.sen@ju.edu.in",
+      "institutionName": "Jadavpur University",
+      "branch": "Computer Science & Engineering",
+      "opportunityTitle": "Low-Latency Systems & Backend Engineer",
+      "companyName": "Zerodha FinTech Labs",
+      "opportunityType": "job",
+      "status": "selected",
+      "appliedDate": "2026-03-08T12:00:00Z",
+      "resumeUrl": "https://skillbridge.gov.in/docs/resumes/aditya-sen-cv.pdf",
+      "skillMatchScore": 98,
+      "matchingSkills": [
+        "Go (Golang)",
+        "C++ Systems Programming",
+        "PostgreSQL",
+        "Problem Solving & DSA"
+      ],
+      "missingSkills": [],
+      "timeline": [
+        {
+          "status": "applied",
+          "timestamp": "2026-03-08T12:00:00Z"
+        },
+        {
+          "status": "shortlisted",
+          "timestamp": "2026-03-10T14:00:00Z"
+        },
+        {
+          "status": "interview",
+          "timestamp": "2026-03-13T16:00:00Z"
+        },
+        {
+          "status": "selected",
+          "timestamp": "2026-03-17T18:00:00Z",
+          "note": "Congratulations! Official offer issued."
+        }
+      ]
+    },
+    {
+      "id": "app-5",
+      "opportunityId": "opp-1",
+      "studentId": "user-stu-6",
+      "studentName": "Meera Nambiar",
+      "studentEmail": "meera.nambiar@annauniv.edu",
+      "institutionName": "Anna University Chennai",
+      "branch": "Information Technology",
+      "opportunityTitle": "Full Stack Web Engineering Intern",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "opportunityType": "internship",
+      "status": "under_review",
+      "appliedDate": "2026-03-16T10:00:00Z",
+      "resumeUrl": "https://skillbridge.gov.in/docs/resumes/meera-cv.pdf",
+      "skillMatchScore": 72,
+      "matchingSkills": [
+        "TypeScript"
+      ],
+      "missingSkills": [
+        "Node.js",
+        "SQL & Database Design"
+      ],
+      "timeline": [
+        {
+          "status": "applied",
+          "timestamp": "2026-03-16T10:00:00Z"
+        },
+        {
+          "status": "under_review",
+          "timestamp": "2026-03-18T12:00:00Z"
+        }
+      ]
+    }
+  ],
+  "assessmentQuestions": [
+    {
+      "id": "q-tech-1",
+      "section": "technical",
+      "category": "Data Structures & Algorithms",
+      "question": "What is the worst-case time complexity of searching in a Balanced Binary Search Tree (such as an AVL or Red-Black Tree) containing N elements?",
+      "options": [
+        "O(1)",
+        "O(log N)",
+        "O(N)",
+        "O(N log N)"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "intermediate",
+      "associatedSkill": "Problem Solving & DSA"
+    },
+    {
+      "id": "q-tech-2",
+      "section": "technical",
+      "category": "Web Development",
+      "question": "In React, what hook should be used to memoize expensive computations between re-renders when dependencies have not changed?",
+      "options": [
+        "useEffect",
+        "useMemo",
+        "useCallback",
+        "useRef"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "intermediate",
+      "associatedSkill": "React.js"
+    },
+    {
+      "id": "q-tech-3",
+      "section": "technical",
+      "category": "Backend & Cloud",
+      "question": "Which HTTP status code signifies that the client must authenticate themselves to get the requested response?",
+      "options": [
+        "400 Bad Request",
+        "401 Unauthorized",
+        "403 Forbidden",
+        "404 Not Found"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "beginner",
+      "associatedSkill": "Node.js"
+    },
+    {
+      "id": "q-tech-4",
+      "section": "technical",
+      "category": "Database Management",
+      "question": "In relational database transactions, what does the \"I\" in ACID stand for?",
+      "options": [
+        "Integrity",
+        "Isolation",
+        "Indexed",
+        "Immutable"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "intermediate",
+      "associatedSkill": "SQL & Database Design"
+    },
+    {
+      "id": "q-tech-5",
+      "section": "technical",
+      "category": "Cloud & DevOps",
+      "question": "In Docker, what instruction in a Dockerfile defines the default executable that will run when the container starts?",
+      "options": [
+        "RUN",
+        "ENTRYPOINT",
+        "EXPOSE",
+        "COPY"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "intermediate",
+      "associatedSkill": "Docker & Kubernetes"
+    },
+    {
+      "id": "q-tech-6",
+      "section": "technical",
+      "category": "Artificial Intelligence & ML",
+      "question": "What mathematical technique is commonly used to prevent overfitting in neural networks by penalizing large weights?",
+      "options": [
+        "L1/L2 Regularization",
+        "Stochastic Gradient Descent",
+        "One-Hot Encoding",
+        "Max Pooling"
+      ],
+      "correctOptionIndex": 0,
+      "difficulty": "advanced",
+      "associatedSkill": "Machine Learning"
+    },
+    {
+      "id": "q-tech-7",
+      "section": "technical",
+      "category": "Programming Languages",
+      "question": "In TypeScript, what type keyword is used to create a new type representing values that can be either of two types (A | B)?",
+      "options": [
+        "Intersection Type",
+        "Union Type",
+        "Generic Type",
+        "Mapped Type"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "beginner",
+      "associatedSkill": "TypeScript"
+    },
+    {
+      "id": "q-tech-8",
+      "section": "technical",
+      "category": "System Architecture",
+      "question": "In microservices architecture, which design pattern allows independent services to communicate asynchronously without direct dependencies?",
+      "options": [
+        "Publish-Subscribe (Pub/Sub)",
+        "Singleton",
+        "Monolithic Facade",
+        "Direct Synchronous RPC"
+      ],
+      "correctOptionIndex": 0,
+      "difficulty": "advanced",
+      "associatedSkill": "Cloud Systems"
+    },
+    {
+      "id": "q-soft-1",
+      "section": "soft_skills",
+      "category": "Team Collaboration",
+      "question": "When a critical milestone is delayed due to an unexpected technical roadblock in your peer module, what is the best immediate step?",
+      "options": [
+        "Wait silently until the daily standup next week.",
+        "Proactively communicate the roadblock to the team lead and collaborate with the peer to troubleshoot.",
+        "Blame the peer so your individual rating remains unaffected.",
+        "Abandon that part of the project unilaterally."
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "beginner",
+      "associatedSkill": "Team Collaboration"
+    },
+    {
+      "id": "q-soft-2",
+      "section": "soft_skills",
+      "category": "Leadership & Conflict Resolution",
+      "question": "Two senior team members disagree strongly on which architectural framework to adopt. How should you facilitate resolution?",
+      "options": [
+        "Force an immediate coin toss decision.",
+        "Organize a structured trade-off matrix session evaluating scalability, maintainability, and delivery timelines against project requirements.",
+        "Pick the choice of the loudest person.",
+        "Implement both frameworks simultaneously."
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "advanced",
+      "associatedSkill": "Leadership"
+    },
+    {
+      "id": "q-soft-3",
+      "section": "soft_skills",
+      "category": "Professional Communication",
+      "question": "When presenting a quarterly technical report to non-technical industry stakeholders, what is most effective?",
+      "options": [
+        "Use dense academic equations and deep kernel code listings without context.",
+        "Focus on business impact, key reliability metrics, user outcomes, and visual milestone summaries.",
+        "Send a 200-page unformatted log file.",
+        "Avoid presentation altogether."
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "intermediate",
+      "associatedSkill": "Communication"
+    },
+    {
+      "id": "q-soft-4",
+      "section": "soft_skills",
+      "category": "Adaptability",
+      "question": "Midway through development, client specifications change drastically due to a newly announced government compliance regulation. How should you adapt?",
+      "options": [
+        "Refuse to adapt and insist on the old specifications.",
+        "Analyze the compliance changes, reassess scope with stakeholders, and reprioritize sprint backlog items methodically.",
+        "Panic and scrap all existing documentation.",
+        "Ignore the regulation until deployment."
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "intermediate",
+      "associatedSkill": "Adaptability"
+    },
+    {
+      "id": "q-apt-1",
+      "section": "aptitude",
+      "category": "Logical Reasoning",
+      "question": "If \"DATA\" is encoded as \"ECWB\", how is \"CODE\" encoded using the same pattern?",
+      "options": [
+        "DPEF",
+        "DQGF",
+        "DREG",
+        "DQFF"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "intermediate",
+      "associatedSkill": "Analytical Thinking"
+    },
+    {
+      "id": "q-apt-2",
+      "section": "aptitude",
+      "category": "Numerical Ability",
+      "question": "A cloud server processes 1,200 requests per minute. If auto-scaling increases capacity by 25% every 10 minutes, how many requests can it process per minute after 20 minutes?",
+      "options": [
+        "1,500",
+        "1,800",
+        "1,875",
+        "2,100"
+      ],
+      "correctOptionIndex": 2,
+      "difficulty": "intermediate",
+      "associatedSkill": "Analytical Thinking"
+    },
+    {
+      "id": "q-apt-3",
+      "section": "aptitude",
+      "category": "Data Interpretation",
+      "question": "In a university placement drive of 500 students, 60% are eligible for IT roles, and 40% of the eligible candidates receive final offers. How many students receive offers?",
+      "options": [
+        "100",
+        "120",
+        "150",
+        "200"
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "beginner",
+      "associatedSkill": "Analytical Thinking"
+    },
+    {
+      "id": "q-apt-4",
+      "section": "aptitude",
+      "category": "Deductive Logic",
+      "question": "Premise 1: All accredited engineering colleges offer AI training. Premise 2: College X offers AI training. Can we definitively conclude College X is accredited?",
+      "options": [
+        "Yes, definitively true.",
+        "No, this is the fallacy of affirming the consequent; other non-accredited entities may also offer AI training.",
+        "Insufficient premise syntax.",
+        "Only if College X has a NIRF rank."
+      ],
+      "correctOptionIndex": 1,
+      "difficulty": "advanced",
+      "associatedSkill": "Problem Solving & DSA"
+    }
+  ],
+  "assessmentResults": [
+    {
+      "id": "res-1",
+      "studentId": "user-stu-1",
+      "takenAt": "2026-03-01T15:00:00Z",
+      "overallScorePercentage": 88,
+      "sectionScores": {
+        "technical": 92,
+        "softSkills": 85,
+        "aptitude": 87
+      },
+      "assessedSkills": [
+        {
+          "skill": "React.js",
+          "level": "advanced",
+          "score": 95
+        },
+        {
+          "skill": "Node.js",
+          "level": "advanced",
+          "score": 90
+        },
+        {
+          "skill": "TypeScript",
+          "level": "intermediate",
+          "score": 85
+        },
+        {
+          "skill": "SQL & Database Design",
+          "level": "intermediate",
+          "score": 80
+        },
+        {
+          "skill": "Problem Solving & DSA",
+          "level": "advanced",
+          "score": 92
+        },
+        {
+          "skill": "Docker & Kubernetes",
+          "level": "intermediate",
+          "score": 72
+        },
+        {
+          "skill": "Team Collaboration",
+          "level": "advanced",
+          "score": 88
+        },
+        {
+          "skill": "Communication",
+          "level": "intermediate",
+          "score": 82
+        }
+      ],
+      "strengths": [
+        "Strong proficiency in full-stack JavaScript/TypeScript architecture",
+        "Advanced algorithmic problem-solving ability",
+        "High situational awareness in team collaboration scenarios"
+      ],
+      "areasOfImprovement": [
+        "Cloud orchestration (Container networking, Terraform automation)",
+        "Large-scale distributed caching and message brokers"
+      ],
+      "recommendedCareers": [
+        "Full Stack Software Engineer",
+        "Cloud Infrastructure Specialist",
+        "Backend Systems Architect"
+      ]
+    },
+    {
+      "id": "res-1789846570923",
+      "studentId": "user-stu-1",
+      "takenAt": "2026-09-19T19:36:10.923Z",
+      "overallScorePercentage": 57,
+      "sectionScores": {
+        "technical": 63,
+        "softSkills": 50,
+        "aptitude": 50
+      },
+      "assessedSkills": [
+        {
+          "skill": "Problem Solving & DSA",
+          "level": "intermediate",
+          "score": 50
+        },
+        {
+          "skill": "React.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Node.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "SQL & Database Design",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Docker & Kubernetes",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Machine Learning",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "TypeScript",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Cloud Systems",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Team Collaboration",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Leadership",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Communication",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Adaptability",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Analytical Thinking",
+          "level": "intermediate",
+          "score": 67
+        }
+      ],
+      "strengths": [
+        "React.js",
+        "Node.js",
+        "SQL & Database Design",
+        "Docker & Kubernetes",
+        "Team Collaboration",
+        "Leadership"
+      ],
+      "areasOfImprovement": [
+        "Machine Learning",
+        "TypeScript",
+        "Cloud Systems",
+        "Communication",
+        "Adaptability"
+      ],
+      "recommendedCareers": [
+        "Junior Web Developer",
+        "Quality Assurance Analyst",
+        "Technical Support Engineer"
+      ]
+    },
+    {
+      "id": "res-1789851256735",
+      "studentId": "user-stu-1",
+      "takenAt": "2026-09-19T20:54:16.735Z",
+      "overallScorePercentage": 31,
+      "sectionScores": {
+        "technical": 25,
+        "softSkills": 50,
+        "aptitude": 25
+      },
+      "assessedSkills": [
+        {
+          "skill": "Problem Solving & DSA",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "React.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Node.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "SQL & Database Design",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Docker & Kubernetes",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Machine Learning",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "TypeScript",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Cloud Systems",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Team Collaboration",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Leadership",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Communication",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Adaptability",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Analytical Thinking",
+          "level": "beginner",
+          "score": 33
+        }
+      ],
+      "strengths": [
+        "React.js",
+        "Node.js",
+        "Leadership",
+        "Adaptability"
+      ],
+      "areasOfImprovement": [
+        "Problem Solving & DSA",
+        "SQL & Database Design",
+        "Docker & Kubernetes",
+        "Machine Learning",
+        "TypeScript",
+        "Cloud Systems",
+        "Team Collaboration",
+        "Communication",
+        "Analytical Thinking"
+      ],
+      "recommendedCareers": [
+        "Junior Web Developer",
+        "Quality Assurance Analyst",
+        "Technical Support Engineer"
+      ]
+    },
+    {
+      "id": "res-1789996909265",
+      "studentId": "user-stu-1",
+      "takenAt": "2026-09-21T13:21:49.265Z",
+      "overallScorePercentage": 57,
+      "sectionScores": {
+        "technical": 63,
+        "softSkills": 50,
+        "aptitude": 50
+      },
+      "assessedSkills": [
+        {
+          "skill": "Problem Solving & DSA",
+          "level": "intermediate",
+          "score": 50
+        },
+        {
+          "skill": "React.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Node.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "SQL & Database Design",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Docker & Kubernetes",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Machine Learning",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "TypeScript",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Cloud Systems",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Team Collaboration",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Leadership",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Communication",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Adaptability",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Analytical Thinking",
+          "level": "intermediate",
+          "score": 67
+        }
+      ],
+      "strengths": [
+        "React.js",
+        "Node.js",
+        "SQL & Database Design",
+        "Docker & Kubernetes",
+        "Team Collaboration",
+        "Leadership"
+      ],
+      "areasOfImprovement": [
+        "Machine Learning",
+        "TypeScript",
+        "Cloud Systems",
+        "Communication",
+        "Adaptability"
+      ],
+      "recommendedCareers": [
+        "Junior Web Developer",
+        "Quality Assurance Analyst",
+        "Technical Support Engineer"
+      ]
+    },
+    {
+      "id": "res-1790091175250",
+      "studentId": "user-stu-1",
+      "takenAt": "2026-09-22T15:32:55.250Z",
+      "overallScorePercentage": 57,
+      "sectionScores": {
+        "technical": 63,
+        "softSkills": 50,
+        "aptitude": 50
+      },
+      "assessedSkills": [
+        {
+          "skill": "Problem Solving & DSA",
+          "level": "intermediate",
+          "score": 50
+        },
+        {
+          "skill": "React.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Node.js",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "SQL & Database Design",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Docker & Kubernetes",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Machine Learning",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "TypeScript",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Cloud Systems",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Team Collaboration",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Leadership",
+          "level": "advanced",
+          "score": 100
+        },
+        {
+          "skill": "Communication",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Adaptability",
+          "level": "beginner",
+          "score": 0
+        },
+        {
+          "skill": "Analytical Thinking",
+          "level": "intermediate",
+          "score": 67
+        }
+      ],
+      "strengths": [
+        "React.js",
+        "Node.js",
+        "SQL & Database Design",
+        "Docker & Kubernetes",
+        "Team Collaboration",
+        "Leadership"
+      ],
+      "areasOfImprovement": [
+        "Machine Learning",
+        "TypeScript",
+        "Cloud Systems",
+        "Communication",
+        "Adaptability"
+      ],
+      "recommendedCareers": [
+        "Junior Web Developer",
+        "Quality Assurance Analyst",
+        "Technical Support Engineer"
+      ]
+    }
+  ],
+  "learningPrograms": [
+    {
+      "id": "prog-1",
+      "title": "National Cloud & Kubernetes Developer Masterclass",
+      "provider": "Tata Consultancy Tech Solutions in partnership with NPTEL",
+      "type": "certification",
+      "skillsCovered": [
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "CI/CD Pipelines",
+        "Cloud Systems"
+      ],
+      "eligibility": "Open to all engineering undergraduates & faculty",
+      "duration": "8 Weeks (Self-paced + Weekend Labs)",
+      "mode": "remote",
+      "deadline": "2026-10-31",
+      "certificationOffered": true,
+      "description": "Master containerized deployment, pod scaling, ingress routing, and production observability on real cloud clusters.",
+      "enrollmentCount": 4200,
+      "targetRole": "Cloud DevOps Engineer"
+    },
+    {
+      "id": "prog-2",
+      "title": "Applied Generative AI & LLM Engineering",
+      "provider": "Infosys Digital Labs & AICTE Innovation Cell",
+      "type": "masterclass",
+      "skillsCovered": [
+        "Python",
+        "PyTorch",
+        "HuggingFace",
+        "LangChain",
+        "Prompt Engineering",
+        "RAG"
+      ],
+      "eligibility": "Students with Python & basic linear algebra knowledge",
+      "duration": "6 Weeks",
+      "mode": "remote",
+      "deadline": "2026-11-05",
+      "certificationOffered": true,
+      "description": "Hands-on practical training on deploying fine-tuned small language models for localized enterprise use cases.",
+      "enrollmentCount": 6800,
+      "targetRole": "AI/ML Engineer"
+    },
+    {
+      "id": "prog-3",
+      "title": "Industrial Microcontroller Firmware & RTOS Bootcamp",
+      "provider": "Bharat Heavy Electronics Ltd",
+      "type": "workshop",
+      "skillsCovered": [
+        "Embedded Systems",
+        "C / C++",
+        "FreeRTOS",
+        "ARM Cortex-M"
+      ],
+      "eligibility": "ECE, EEE, and Mechatronics students",
+      "duration": "4 Weeks Intensive",
+      "mode": "hybrid",
+      "deadline": "2026-10-25",
+      "certificationOffered": true,
+      "description": "Hands-on hardware lab simulating industrial sensor telemetry, priority inversion resolution, and real-time scheduling.",
+      "enrollmentCount": 1540,
+      "targetRole": "Embedded Systems Engineer"
+    },
+    {
+      "id": "prog-4",
+      "title": "FinTech High-Frequency Architecture Challenge",
+      "provider": "Zerodha FinTech Labs",
+      "type": "industry_challenge",
+      "skillsCovered": [
+        "Go (Golang)",
+        "Distributed Systems",
+        "PostgreSQL",
+        "Low-Latency Networking"
+      ],
+      "eligibility": "All students across Indian universities",
+      "duration": "3 Weeks Hackathon & Mentorship",
+      "mode": "remote",
+      "deadline": "2026-11-20",
+      "certificationOffered": true,
+      "description": "Build a matching engine capable of parsing 100,000 orders/sec with zero memory leaks. Top 10 win direct interview fast-tracks.",
+      "enrollmentCount": 3100,
+      "targetRole": "Systems Engineer"
+    },
+    {
+      "id": "prog-5",
+      "title": "Faculty Immersion in Semiconductor VLSI & Physical Design",
+      "provider": "Reliance NextGen & Ministry of Electronics and IT",
+      "type": "fdp",
+      "skillsCovered": [
+        "VLSI Design",
+        "SystemVerilog",
+        "ASIC Flow",
+        "FPGA Prototyping"
+      ],
+      "eligibility": "Engineering faculty members",
+      "duration": "2 Weeks (Full Time)",
+      "mode": "on_site",
+      "deadline": "2026-10-18",
+      "certificationOffered": true,
+      "description": "Equip academia with cutting-edge chip design tools and curricula alignment for the India Semiconductor Mission.",
+      "enrollmentCount": 320,
+      "targetRole": "Faculty Specialist"
+    }
+  ],
+  "internshipProgress": [
+    {
+      "id": "intern-1",
+      "studentId": "user-stu-1",
+      "studentName": "Arjun Sharma",
+      "opportunityId": "opp-1",
+      "opportunityTitle": "Full Stack Web Engineering Intern",
+      "companyName": "Tata Consultancy Tech Solutions",
+      "mentorName": "Priya Nair",
+      "mentorEmail": "industry@skillbridge.gov.in",
+      "startDate": "2026-02-01",
+      "endDate": "2026-07-31",
+      "overallProgress": 100,
+      "status": "ongoing",
+      "weeklyLogs": [
+        {
+          "weekNumber": 1,
+          "weekStartDate": "2026-02-01",
+          "tasksAccomplished": "Environment setup, security compliance onboarding, and architectural overview of micro-frontend architecture.",
+          "challengesFaced": "Configuring corporate VPN and signed TLS certificates on local machine.",
+          "learnings": "Understanding OAuth 2.0 PKCE flow and enterprise RBAC gateway patterns.",
+          "deliverableLink": "https://github.com/skillbridge-demo/client-gateway-audit",
+          "submittedAt": "2026-02-07T17:00:00Z",
+          "mentorEvaluation": {
+            "rating": 5,
+            "feedback": "Outstanding initiative. Arjun quickly resolved the VPN certificate bindings independently.",
+            "evaluatedAt": "2026-02-08T11:00:00Z",
+            "mentorName": "Priya Nair"
+          }
+        },
+        {
+          "weekNumber": 2,
+          "weekStartDate": "2026-02-08",
+          "tasksAccomplished": "Developed React reusable data table component with virtualized scrolling and multi-column sorting.",
+          "challengesFaced": "Preventing unnecessary re-renders when pagination state changed.",
+          "learnings": "Leveraged React.memo and useMemo caches effectively.",
+          "deliverableLink": "https://github.com/skillbridge-demo/ui-components-pr-12",
+          "submittedAt": "2026-02-14T18:00:00Z",
+          "mentorEvaluation": {
+            "rating": 4,
+            "feedback": "Code quality is high. Suggested adding unit tests for edge-case sorting with null data values.",
+            "evaluatedAt": "2026-02-16T10:30:00Z",
+            "mentorName": "Priya Nair"
+          }
+        },
+        {
+          "weekNumber": 3,
+          "weekStartDate": "2026-02-15",
+          "tasksAccomplished": "Integrated REST API pagination endpoints with Zod validation schemas.",
+          "challengesFaced": "Handling asynchronous abort signals when quick tab switches occur.",
+          "learnings": "Used AbortController and custom fetch hook for clean cancellation.",
+          "deliverableLink": "https://github.com/skillbridge-demo/api-client-pr-15",
+          "submittedAt": "2026-02-21T16:45:00Z",
+          "mentorEvaluation": {
+            "rating": 5,
+            "feedback": "Superb implementation of request aborts. Excellent attention to performance.",
+            "evaluatedAt": "2026-02-23T09:15:00Z",
+            "mentorName": "Priya Nair"
+          }
+        },
+        {
+          "weekNumber": 4,
+          "weekStartDate": "2026-09-19",
+          "tasksAccomplished": "Engineered high-concurrency Redis queue.",
+          "challengesFaced": "Cache stampede mitigation.",
+          "learnings": "Implemented probabilistic early expiration.",
+          "deliverableLink": "https://github.com/skillbridge/redis-pr",
+          "submittedAt": "2026-09-19T19:36:10.987Z"
+        },
+        {
+          "weekNumber": 4,
+          "weekStartDate": "2026-09-21",
+          "tasksAccomplished": "Engineered high-concurrency Redis queue.",
+          "challengesFaced": "Cache stampede mitigation.",
+          "learnings": "Implemented probabilistic early expiration.",
+          "deliverableLink": "https://github.com/skillbridge/redis-pr",
+          "submittedAt": "2026-09-21T13:21:49.326Z"
+        },
+        {
+          "weekNumber": 4,
+          "weekStartDate": "2026-09-22",
+          "tasksAccomplished": "Engineered high-concurrency Redis queue.",
+          "challengesFaced": "Cache stampede mitigation.",
+          "learnings": "Implemented probabilistic early expiration.",
+          "deliverableLink": "https://github.com/skillbridge/redis-pr",
+          "submittedAt": "2026-09-22T15:32:55.304Z"
+        }
+      ]
+    }
+  ],
+  "collaborationProposals": [
+    {
+      "id": "collab-1",
+      "title": "Joint AI Center for Indic Language Translation in Public Services",
+      "proposedByRole": "faculty",
+      "proposerId": "user-fac-1",
+      "proposerName": "Dr. Rajesh Verma",
+      "proposerOrg": "IIT Delhi",
+      "targetOrgName": "Infosys Digital Labs",
+      "type": "joint_research",
+      "domain": "Artificial Intelligence & Natural Language Processing",
+      "budgetOrFunding": "₹45,00,000 (Joint Industry-Academia Co-funding)",
+      "objectives": "Establish a benchmark research lab to build open-source lightweight Indic translation models for e-governance citizen access.",
+      "deliverables": [
+        "Published open-weight 7B parameter Indic model",
+        "REST API benchmark dataset across 12 Indian languages",
+        "Hands-on internship opportunities for 15 graduate scholars"
+      ],
+      "expectedDuration": "18 Months",
+      "status": "under_review",
+      "submittedDate": "2026-02-10T10:00:00Z",
+      "updatedDate": "2026-02-18T14:00:00Z",
+      "adminNotes": "Reviewed by National Innovation Board. Forwarded to Infosys CSR and R&D Committee for budget endorsement."
+    },
+    {
+      "id": "collab-2",
+      "title": "Curriculum Modernization on High-Speed 5G Edge Telemetry",
+      "proposedByRole": "industry",
+      "proposerId": "user-ind-4",
+      "proposerName": "Rajesh Singhania",
+      "proposerOrg": "Reliance NextGen Platforms",
+      "targetOrgName": "NIT Warangal",
+      "type": "curriculum_design",
+      "domain": "Telecommunications & Cloud Systems",
+      "budgetOrFunding": "Sponsored Equipment & Cloud Credits",
+      "objectives": "Co-design 6th and 7th semester elective course on Cloud Edge Architecture and provide 5G testbed access to undergraduate laboratories.",
+      "deliverables": [
+        "Updated syllabus approved by Academic Council",
+        "Dedicated 5G lab simulation workstation setup",
+        "Annual guest lecture series by Reliance Chief Architects"
+      ],
+      "expectedDuration": "24 Months",
+      "status": "approved",
+      "submittedDate": "2026-01-20T11:00:00Z",
+      "updatedDate": "2026-02-05T16:00:00Z",
+      "adminNotes": "Formal MoU signed by NIT Warangal Director and Reliance VP."
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1790091175327",
+      "userId": "user-ind-1",
+      "title": "Verification Request VERIFIED",
+      "message": "Your verification request for \"Tata Consultancy Tech Solutions\" was marked as verified. Audited and verified in test suite.",
+      "type": "verification",
+      "isRead": false,
+      "createdAt": "2026-09-22T15:32:55.327Z"
+    },
+    {
+      "id": "notif-1790091175304",
+      "userId": "user-ind-1",
+      "title": "Weekly Progress Report Submitted",
+      "message": "Arjun Sharma submitted Week 4 progress report for evaluation.",
+      "type": "internship",
+      "isRead": false,
+      "createdAt": "2026-09-22T15:32:55.304Z",
+      "linkUrl": "/internship-tracker"
+    },
+    {
+      "id": "notif-1790091175288",
+      "userId": "user-stu-1",
+      "title": "Application Update: SHORTLISTED",
+      "message": "Your application for \"Full Stack Web Engineering Intern\" at Tata Consultancy Tech Solutions has moved to shortlisted.",
+      "type": "application",
+      "isRead": false,
+      "createdAt": "2026-09-22T15:32:55.288Z",
+      "linkUrl": "/applications"
+    },
+    {
+      "id": "notif-1790091175250",
+      "userId": "user-stu-1",
+      "title": "Skill Assessment Completed",
+      "message": "Assessment evaluated! Overall readiness score: 57%. Your skill profile and recommended opportunities have been updated.",
+      "type": "system",
+      "isRead": false,
+      "createdAt": "2026-09-22T15:32:55.250Z",
+      "linkUrl": "/skill-analysis"
+    },
+    {
+      "id": "notif-1789996909345",
+      "userId": "user-ind-1",
+      "title": "Verification Request VERIFIED",
+      "message": "Your verification request for \"Tata Consultancy Tech Solutions\" was marked as verified. Audited and verified in test suite.",
+      "type": "verification",
+      "isRead": false,
+      "createdAt": "2026-09-21T13:21:49.345Z"
+    },
+    {
+      "id": "notif-1789996909326",
+      "userId": "user-ind-1",
+      "title": "Weekly Progress Report Submitted",
+      "message": "Arjun Sharma submitted Week 4 progress report for evaluation.",
+      "type": "internship",
+      "isRead": false,
+      "createdAt": "2026-09-21T13:21:49.326Z",
+      "linkUrl": "/internship-tracker"
+    },
+    {
+      "id": "notif-1789996909310",
+      "userId": "user-stu-1",
+      "title": "Application Update: SHORTLISTED",
+      "message": "Your application for \"Full Stack Web Engineering Intern\" at Tata Consultancy Tech Solutions has moved to shortlisted.",
+      "type": "application",
+      "isRead": false,
+      "createdAt": "2026-09-21T13:21:49.310Z",
+      "linkUrl": "/applications"
+    },
+    {
+      "id": "notif-1789996909265",
+      "userId": "user-stu-1",
+      "title": "Skill Assessment Completed",
+      "message": "Assessment evaluated! Overall readiness score: 57%. Your skill profile and recommended opportunities have been updated.",
+      "type": "system",
+      "isRead": false,
+      "createdAt": "2026-09-21T13:21:49.265Z",
+      "linkUrl": "/skill-analysis"
+    },
+    {
+      "id": "notif-1789888017384",
+      "userId": "user-stu-1",
+      "title": "Application Update: SELECTED",
+      "message": "Your application for \"Full Stack Web Engineering Intern\" at Tata Consultancy Tech Solutions has moved to selected.",
+      "type": "application",
+      "isRead": false,
+      "createdAt": "2026-09-20T07:06:57.384Z",
+      "linkUrl": "/applications"
+    },
+    {
+      "id": "notif-1789851256735",
+      "userId": "user-stu-1",
+      "title": "Skill Assessment Completed",
+      "message": "Assessment evaluated! Overall readiness score: 31%. Your skill profile and recommended opportunities have been updated.",
+      "type": "system",
+      "isRead": false,
+      "createdAt": "2026-09-19T20:54:16.735Z",
+      "linkUrl": "/skill-analysis"
+    },
+    {
+      "id": "notif-1789846571012",
+      "userId": "user-ind-1",
+      "title": "Verification Request VERIFIED",
+      "message": "Your verification request for \"Tata Consultancy Tech Solutions\" was marked as verified. Audited and verified in test suite.",
+      "type": "verification",
+      "isRead": false,
+      "createdAt": "2026-09-19T19:36:11.012Z"
+    },
+    {
+      "id": "notif-1789846570987",
+      "userId": "user-ind-1",
+      "title": "Weekly Progress Report Submitted",
+      "message": "Arjun Sharma submitted Week 4 progress report for evaluation.",
+      "type": "internship",
+      "isRead": false,
+      "createdAt": "2026-09-19T19:36:10.987Z",
+      "linkUrl": "/internship-tracker"
+    },
+    {
+      "id": "notif-1789846570972",
+      "userId": "user-stu-1",
+      "title": "Application Update: SHORTLISTED",
+      "message": "Your application for \"Full Stack Web Engineering Intern\" at Tata Consultancy Tech Solutions has moved to shortlisted.",
+      "type": "application",
+      "isRead": true,
+      "createdAt": "2026-09-19T19:36:10.972Z",
+      "linkUrl": "/applications"
+    },
+    {
+      "id": "notif-1789846570946",
+      "userId": "user-ind-2",
+      "title": "New Candidate Application",
+      "message": "Arjun Sharma (IIT Delhi, Match: 51%) applied for \"Applied AI & NLP Research Intern\".",
+      "type": "application",
+      "isRead": false,
+      "createdAt": "2026-09-19T19:36:10.946Z",
+      "linkUrl": "/recruiter/applicants"
+    },
+    {
+      "id": "notif-1789846570923",
+      "userId": "user-stu-1",
+      "title": "Skill Assessment Completed",
+      "message": "Assessment evaluated! Overall readiness score: 57%. Your skill profile and recommended opportunities have been updated.",
+      "type": "system",
+      "isRead": false,
+      "createdAt": "2026-09-19T19:36:10.923Z",
+      "linkUrl": "/skill-analysis"
+    },
+    {
+      "id": "notif-1",
+      "userId": "user-stu-1",
+      "title": "Application Shortlisted!",
+      "message": "Your application for \"Full Stack Web Engineering Intern\" at Tata Consultancy Tech Solutions has been shortlisted. Technical interview scheduled.",
+      "type": "application",
+      "isRead": false,
+      "createdAt": "2026-03-16T16:05:00Z",
+      "linkUrl": "/applications"
+    },
+    {
+      "id": "notif-2",
+      "userId": "user-stu-1",
+      "title": "Mentor Feedback Received",
+      "message": "Priya Nair provided 5-star evaluation on your Week 3 internship deliverable.",
+      "type": "internship",
+      "isRead": false,
+      "createdAt": "2026-02-23T09:20:00Z",
+      "linkUrl": "/internship-tracker"
+    },
+    {
+      "id": "notif-3",
+      "userId": "user-stu-1",
+      "title": "New Matching Opportunity",
+      "message": "Zerodha FinTech Labs posted a new role \"Frontend UI/UX Developer Intern\" matching 92% of your assessed skill profile.",
+      "type": "recommendation",
+      "isRead": true,
+      "createdAt": "2026-03-09T10:30:00Z",
+      "linkUrl": "/recommendations"
+    },
+    {
+      "id": "notif-4",
+      "userId": "user-ind-1",
+      "title": "New Candidate Application",
+      "message": "Arjun Sharma (IIT Delhi, 8.85 CGPA) applied for Full Stack Web Engineering Intern.",
+      "type": "application",
+      "isRead": false,
+      "createdAt": "2026-03-12T14:35:00Z",
+      "linkUrl": "/recruiter/applicants"
+    }
+  ],
+  "verificationRequests": [
+    {
+      "id": "vr-1",
+      "type": "organization",
+      "targetId": "ind-1",
+      "targetName": "Tata Consultancy Tech Solutions",
+      "requesterEmail": "industry@skillbridge.gov.in",
+      "documentUrl": "https://skillbridge.gov.in/docs/verify/cin-tata-cert.pdf",
+      "details": "Corporate Identification Number (CIN: L74140MH1995PLC012345) and MCA registration certificate submitted for official badge.",
+      "status": "verified",
+      "submittedAt": "2026-01-05T09:30:00Z",
+      "reviewedAt": "2026-09-22T15:32:55.326Z",
+      "reviewedBy": "National Nodal Officer",
+      "remarks": "Audited and verified in test suite."
+    },
+    {
+      "id": "vr-2",
+      "type": "student_credential",
+      "targetId": "sp-1",
+      "targetName": "Arjun Sharma - React Advanced Certification",
+      "requesterEmail": "student@skillbridge.gov.in",
+      "documentUrl": "https://skillbridge.gov.in/docs/verify/arjun-react-cert.pdf",
+      "details": "Student requested institutional verification for Meta Certified React Developer certificate issued 2025.",
+      "status": "verified",
+      "submittedAt": "2026-02-15T10:00:00Z",
+      "reviewedAt": "2026-02-16T12:00:00Z",
+      "reviewedBy": "IIT Delhi Academic Registrar",
+      "remarks": "Verified against issuing authority."
+    },
+    {
+      "id": "vr-3",
+      "type": "organization",
+      "targetId": "ind-5",
+      "targetName": "Zerodha FinTech Labs",
+      "requesterEmail": "karthik@zerodha-labs.io",
+      "documentUrl": "https://skillbridge.gov.in/docs/verify/zerodha-reg.pdf",
+      "details": "SEBI registered entity registration document submitted for verified enterprise recruiter status.",
+      "status": "verified",
+      "submittedAt": "2026-01-12T10:00:00Z",
+      "reviewedAt": "2026-01-13T14:00:00Z",
+      "reviewedBy": "National Nodal Officer",
+      "remarks": "SEBI registration verified."
+    }
+  ]
+}

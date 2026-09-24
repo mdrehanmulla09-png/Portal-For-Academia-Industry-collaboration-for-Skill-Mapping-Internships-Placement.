@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#F7F6F2] text-[#252B32] antialiased font-sans selection:bg-[#EBF2F1] selection:text-[#1B4742];
+  }
+
+  /* Form control defaults */
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="number"],
+  input[type="url"],
+  input[type="date"],
+  select,
+  textarea {
+    @apply text-sm text-[#252B32] bg-white border border-[#D0CBC0] rounded-md transition-colors placeholder:text-[#8C95A6] focus:border-[#245C56] focus:ring-1 focus:ring-[#245C56] focus:outline-none;
+  }
+}
+
+/* Dignified national tricolor accent bar */
+.gov-tricolor-bar {
+  background: linear-gradient(90deg, #FF671F 0%, #FF671F 33.3%, #FFFFFF 33.3%, #FFFFFF 66.6%, #046A38 66.6%, #046A38 100%);
+  height: 3px;
+}
+
+/* High contrast accessibility mode */
+body.high-contrast {
+  filter: contrast(130%);
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+
+body.high-contrast .bg-white,
+body.high-contrast .bg-warm-canvas,
+body.high-contrast .bg-warm-surface {
+  background-color: #121212 !important;
+  color: #FFFFFF !important;
+  border-color: #444444 !important;
+}
+
+body.high-contrast .text-warm-text,
+body.high-contrast .text-warm-muted {
+  color: #E2E8F0 !important;
+}
+
+/* Print styling for certificates and portfolios */
+@media print {
+  header, footer, nav, aside, .no-print {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+}

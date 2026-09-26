@@ -49,7 +49,7 @@ export interface DatabaseSchema {
   verificationRequests: VerificationRequest[];
 }
 
-const DATA_DIR = path.resolve(__dirname, '../../data');
+const DATA_DIR = process.env.VERCEL ? '/tmp/data' : path.resolve(__dirname, '../../data');
 const DATA_FILE = path.join(DATA_DIR, 'db.json');
 
 export class DataStore {

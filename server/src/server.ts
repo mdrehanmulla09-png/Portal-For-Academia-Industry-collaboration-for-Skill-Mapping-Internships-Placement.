@@ -28,7 +28,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware
 app.use(
   cors({
-    origin: process.env.CLIENT_ORIGIN || 'http://localhost:5173',
+    origin: true,
     credentials: true
   })
 );
@@ -39,6 +39,16 @@ app.use(cookieParser());
 // Serve static mock files if needed
 const UPLOADS_DIR = path.resolve(__dirname, '../uploads');
 app.use('/uploads', express.static(UPLOADS_DIR));
+
+// API Root endpoint
+app.get('/api', (req: Request, res: Response) => {
+  res.json({
+    status: 'ok',
+    service: 'SkillBridge India API',
+    problemStatementId: 26044,
+    timestamp: new Date().toISOString()
+  });
+});
 
 // Health check endpoint
 app.get('/api/health', (req: Request, res: Response) => {
@@ -92,12 +102,14 @@ if (!existingUsers || existingUsers.length === 0) {
   seedDatabase();
 }
 
-app.listen(PORT, () => {
-  console.log(`================================================================`);
-  console.log(`  🇮🇳  SkillBridge India - Academia-Industry Collaboration Portal`);
-  console.log(`  Problem Statement ID: 26044`);
-  console.log(`  API Server running on: http://localhost:${PORT}`);
-  console.log(`================================================================`);
-});
+if (!process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`================================================================`);
+    console.log(`  🇮🇳  SkillBridge India - Academia-Industry Collaboration Portal`);
+    console.log(`  Problem Statement ID: 26044`);
+    console.log(`  API Server running on: http://localhost:${PORT}`);
+    console.log(`================================================================`);
+  });
+}
 
 export default app;
